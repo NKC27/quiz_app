@@ -2,6 +2,8 @@
 
 A modern and interactive quiz application that tests your JavaScript knowledge with a series of questions. The app includes a timer, a high scores feature, and smooth animations for a seamless user experience.
 
+CHeck out the live version here: url('https://nkc27.github.io/quiz_app/')
+
 ---
 
 ## Features
